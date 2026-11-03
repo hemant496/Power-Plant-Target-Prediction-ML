@@ -50,8 +50,4 @@ python eda.py
 python models.py
 ```
 
-## Report
-The IEEE-format report is in `report/IEEE_Report_Hemant_Kumar.pdf`.
 
-## Note
-This is an educational project and not a tool for real grid planning.
